@@ -122,7 +122,7 @@ def main():
             print()  # Línea vacía si no hay estados equivalentes
 
 
-main()
+main()   
 
 
 
